@@ -4,7 +4,7 @@
 ### Setup
 - This project requires SQL Server (SQL Express), Power BI Desktop
 - We will work with backup Data Awesome Chocolates data (ac-sql-server.bak). Obtain data and restore following instructions from [here.](https://github.com/Poojabhatt120196/Awesome-Chocolates/blob/master/ac-sql-server.bak)
-- Update Awesome Chocolates data using sql script.
+- Update Awesome Chocolates data using [sql script.](https://github.com/Poojabhatt120196/Awesome-Chocolates/blob/master/Awesome%20Chocolates.sql)
 
 ### Sales Analysis and Top Sales Person
 -	Read the data doing sales analysis for Awesome Chocolates, also parameterizing the query to limit the data analysis if for any product required using Product code. Analysing and finding out the top sales person.
@@ -24,6 +24,6 @@
 -	Show the parameter values on the Power BI report
   
 ### Dashboard
--	Download the file and open in Power BI Desktop for interactive viewing.
--	See a screenshot of the Dashboard in pdf.
+-	[Download the file](https://github.com/Poojabhatt120196/Awesome-Chocolates/blob/master/Sales%20Dashboard%20-%20Awesome%20Chocolates.pbix) and open in Power BI Desktop for interactive viewing.
+-	[See a screenshot](https://github.com/Poojabhatt120196/Awesome-Chocolates/blob/master/Sales%20Dashboard%20-%20Awesome%20Chocolates.pdf) of the Dashboard in pdf.
 
